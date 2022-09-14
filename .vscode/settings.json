@@ -1,0 +1,5 @@
+{
+    "discord.enabled": true,
+    "discord.idleTimeout": 5,
+    "RPC.disconnectOnIdle": true
+}
